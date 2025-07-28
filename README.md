@@ -19,4 +19,4 @@ In the provided Arduino simulation, speech recognition is mimicked using the Ser
 
 Real-life applications of speech recognition are diverse and impactful. In smart homes, users can control lights, fans, and appliances with voice commands, enhancing convenience and accessibility. In healthcare, doctors use voice dictation to document patient information without using their hands. Speech recognition also powers virtual assistants, allowing users to set reminders, search information, or send messages using just their voice. Vehicles use it to enable hands-free navigation and media control. Additionally, it is beneficial in education for dictation and language learning, and in customer service systems to automate call routing and query handling. Overall, speech recognition bridges the gap between human communication and machine response, making technology more intuitive and accessible.
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/3714f102-5802-470b-8cc7-82eb41337b9b)
